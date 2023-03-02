@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "user": "Leo",
+    "tweets": 5768,
+    "followers": 29576,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw4xHiYs4vnhBs9jqjYk0_JY3-SiSavqovXA&usqp=CAU"
+  },
+  {
+    "id": 2,
+    "user": "Rikki",
+    "tweets": 749,
+    "followers": 20486,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtjkc-WVMU1L1xyXtTN4vJwOxkOgeGkEBL6A&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "user": "Minni",
+    "tweets": 3960,
+    "followers": 6385,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGHOPHIzqS77fiC2ilAL47ukQjdrptonPHxQ&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "user": "Maya",
+    "tweets": 5893,
+    "followers": 39596,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQawE4dZVFZvRQ8G0NfDs3qFlPJgrkw262JjQ&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "user": "Rudolph",
+    "tweets": 5208,
+    "followers": 5886,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNI_mzHas4gtrC5xJraZEoE46qn0jk92Tn4g&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "user": "Debora",
+    "tweets": 584,
+    "followers": 1296,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYJ60Rv-rlr3Xtbk9fvkzzdeD1xc--7rXqw&usqp=CAU"
+  }
+]

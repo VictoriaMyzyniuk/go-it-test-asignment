@@ -1,3 +1,12 @@
+import { Layout } from 'components/Layout/Layout';
+
+import { ListOfCards } from 'components/ListOfCards/ListOfCards';
+import users from 'data/users.json';
+
 export const App = () => {
-  return <div>React homework template</div>;
+  return (
+    <Layout>
+      <ListOfCards users={users} />
+    </Layout>
+  );
 };
